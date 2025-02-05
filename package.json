@@ -1,6 +1,5 @@
 {
-    "name": "vercel-test-api",
-    "version": "1.0.0",
-    "main": "api/hello.js"
-  }
-  
+  "name": "vercel-test-api",
+  "version": "1.0.0",
+  "main": "api/hello.js"
+}
